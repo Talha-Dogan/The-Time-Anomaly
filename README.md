@@ -1,6 +1,6 @@
 # The-Time-Anomaly
 
-
+project for #GameOff Game jam
 Time Anomaly invites players to witness time travel from its most primitive perspective — through the eyes of a caveman. The story begins on a silent prehistoric night, when a mysterious meteor tears through the sky and crashes into the valley. Inside it lies a strange crystal pulsating with unknown energy. The moment our caveman touches it, he triggers a chain reaction powerful enough to ripple through all of time.
 
 In an instant, he is engulfed by a blinding light and thrown across eras he never knew existed. One moment he may find himself stranded on frozen continents ruled by glaciers, and in the next, he may awaken in the middle of a futuristic city filled with advanced robotics. With each jump, the balance of time fractures a little more, and players must struggle both to survive and to uncover the truth behind these chaotic distortions.
